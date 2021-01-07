@@ -37,7 +37,6 @@ figcaption {
   margin-left: auto;
 }
 
-#details {
+#details > div {
   background: pink;
-  display: inline-block;
 }
