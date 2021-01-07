@@ -39,6 +39,7 @@ figcaption {
 
 #details > div {
   background: pink;
+  float: left;
   display: inline-block;
   width: 25%;
 }
