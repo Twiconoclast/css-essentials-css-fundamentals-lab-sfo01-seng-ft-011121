@@ -18,6 +18,5 @@ img {
 a {
   padding-left: 10px;
   padding-right: 10px;
-  margin-right: auto;
-  margin-left: auto;
+  text-align: center;
 }
